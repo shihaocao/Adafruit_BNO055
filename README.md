@@ -8,7 +8,7 @@ This driver is for the Adafruit BNO055 Breakout, and is based on Adafruit's Unif
 This specific fork is for the lodestar project. It contains a modified vector.h to comply with
 -Werror requirements.
 
-[Lodestar](https://github.com/shihaocao/lodestar)
+[https://github.com/shihaocao/lodestar](https://github.com/shihaocao/lodestar)
 
 Tested and works great with the Adafruit Si4713 Breakout Board 
 To work with the Arduino Zero, the BNO055's ADR pin must be high.
